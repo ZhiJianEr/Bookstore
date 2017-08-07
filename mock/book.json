@@ -1,0 +1,20 @@
+[
+  {
+    "bookName": "书籍标题",
+    "id": 1,
+    "content": "国内仅有的一本ES6教程",
+    "bookCover": "http://cover.read.duokan.com/mfsv2/download/fdsc3/p014no3YpH1n/EiZapbWvNT3QVN.jpg!t"
+  },
+  {
+    "bookName": "书籍标题",
+    "id": 2,
+    "content": "国内仅有的一本ES6教程",
+    "bookCover": "http://cover.read.duokan.com/mfsv2/download/fdsc3/p014no3YpH1n/EiZapbWvNT3QVN.jpg!t"
+  },
+  {
+    "bookName": "书籍标题",
+    "id": 3,
+    "content": "国内仅有的一本ES6教程",
+    "bookCover": "http://cover.read.duokan.com/mfsv2/download/fdsc3/p014no3YpH1n/EiZapbWvNT3QVN.jpg!t"
+  }
+]
